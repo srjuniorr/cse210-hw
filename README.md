@@ -1,4 +1,5 @@
-# cse210-ww-student-template
-This is the starter code for students in the worldwide content version of CSE 210.
+# cse210-hw — Junior Dias
 
-This repository contains the starter code for many different projects. They are arranged folders by week. There is also an an empty sandbox project that can be used to play around with any concept you would like.
+This repository contains my projects for CSE 210 (Programming with Classes) at BYU-Pathway Worldwide.
+
+The projects are arranged in folders by week. There is also an empty sandbox project that can be used to play around with any concept I would like.
